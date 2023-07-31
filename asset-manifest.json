@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/QCAlas/static/css/main.56ca45bf.css",
-    "main.js": "/QCAlas/static/js/main.e1a55550.js",
+    "main.js": "/QCAlas/static/js/main.a3ee53a1.js",
     "static/js/787.9b550815.chunk.js": "/QCAlas/static/js/787.9b550815.chunk.js",
     "static/media/ALAS30TH.png": "/QCAlas/static/media/ALAS30TH.746daa7e170288b39f25.png",
     "static/media/AlasBackgroundMobile.png": "/QCAlas/static/media/AlasBackgroundMobile.d789c06b27c410f77d9a.png",
@@ -12,11 +12,11 @@
     "static/media/logo.svg": "/QCAlas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/QCAlas/index.html",
     "main.56ca45bf.css.map": "/QCAlas/static/css/main.56ca45bf.css.map",
-    "main.e1a55550.js.map": "/QCAlas/static/js/main.e1a55550.js.map",
+    "main.a3ee53a1.js.map": "/QCAlas/static/js/main.a3ee53a1.js.map",
     "787.9b550815.chunk.js.map": "/QCAlas/static/js/787.9b550815.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56ca45bf.css",
-    "static/js/main.e1a55550.js"
+    "static/js/main.a3ee53a1.js"
   ]
 }
