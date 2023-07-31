@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qcalas/static/css/main.ebd982ee.css",
+    "main.js": "/qcalas/static/js/main.91891a78.js",
+    "static/js/787.9b550815.chunk.js": "/qcalas/static/js/787.9b550815.chunk.js",
+    "static/media/ALAS30TH.png": "/qcalas/static/media/ALAS30TH.746daa7e170288b39f25.png",
+    "static/media/AlasBackgroundMobile.png": "/qcalas/static/media/AlasBackgroundMobile.d789c06b27c410f77d9a.png",
+    "static/media/AlasBackground.png": "/qcalas/static/media/AlasBackground.0ae8ed260f9c3e6fd22f.png",
+    "static/media/AlasBackgroundTablet.jpg": "/qcalas/static/media/AlasBackgroundTablet.c47ba0d6ae7a58985608.jpg",
+    "static/media/Instagram.webp": "/qcalas/static/media/Instagram.ac8f00ccd979326a77c3.webp",
+    "static/media/alas.png": "/qcalas/static/media/alas.34e5a04b9f5d1524fefd.png",
+    "static/media/logo.svg": "/qcalas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/qcalas/index.html",
+    "main.ebd982ee.css.map": "/qcalas/static/css/main.ebd982ee.css.map",
+    "main.91891a78.js.map": "/qcalas/static/js/main.91891a78.js.map",
+    "787.9b550815.chunk.js.map": "/qcalas/static/js/787.9b550815.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebd982ee.css",
+    "static/js/main.91891a78.js"
+  ]
+}
