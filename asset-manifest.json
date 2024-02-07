@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.84358f70.css",
-    "main.js": "/static/js/main.2d636393.js",
-    "static/js/787.9b550815.chunk.js": "/static/js/787.9b550815.chunk.js",
-    "static/media/ALAS30TH.png": "/static/media/ALAS30TH.746daa7e170288b39f25.png",
-    "static/media/AlasBackgroundMobile.png": "/static/media/AlasBackgroundMobile.d789c06b27c410f77d9a.png",
-    "static/media/AlasBackground.png": "/static/media/AlasBackground.0ae8ed260f9c3e6fd22f.png",
-    "static/media/AlasBackgroundTablet.jpg": "/static/media/AlasBackgroundTablet.c47ba0d6ae7a58985608.jpg",
-    "static/media/Instagram.webp": "/static/media/Instagram.ac8f00ccd979326a77c3.webp",
-    "static/media/Gabe.webp": "/static/media/Gabe.ce513eead6404c82ed0c.webp",
-    "static/media/Adrianna.webp": "/static/media/Adrianna.ff94ee3fe99d5aaa7f47.webp",
-    "static/media/Josh.webp": "/static/media/Josh.a73b6ee5d96db29d47f0.webp",
-    "static/media/alas.png": "/static/media/alas.34e5a04b9f5d1524fefd.png",
-    "static/media/Mia.webp": "/static/media/Mia.0481e9163c6f372172c1.webp",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.84358f70.css.map": "/static/css/main.84358f70.css.map",
-    "main.2d636393.js.map": "/static/js/main.2d636393.js.map",
-    "787.9b550815.chunk.js.map": "/static/js/787.9b550815.chunk.js.map"
+    "main.css": "/QCAlas/static/css/main.e4608531.css",
+    "main.js": "/QCAlas/static/js/main.405e1057.js",
+    "static/js/787.9b550815.chunk.js": "/QCAlas/static/js/787.9b550815.chunk.js",
+    "static/media/ALAS30TH.png": "/QCAlas/static/media/ALAS30TH.746daa7e170288b39f25.png",
+    "static/media/AlasBackgroundMobile.png": "/QCAlas/static/media/AlasBackgroundMobile.d789c06b27c410f77d9a.png",
+    "static/media/AlasBackground.png": "/QCAlas/static/media/AlasBackground.0ae8ed260f9c3e6fd22f.png",
+    "static/media/AlasBackgroundTablet.jpg": "/QCAlas/static/media/AlasBackgroundTablet.c47ba0d6ae7a58985608.jpg",
+    "static/media/Instagram.webp": "/QCAlas/static/media/Instagram.ac8f00ccd979326a77c3.webp",
+    "static/media/Gabe.webp": "/QCAlas/static/media/Gabe.ce513eead6404c82ed0c.webp",
+    "static/media/Adrianna.webp": "/QCAlas/static/media/Adrianna.ff94ee3fe99d5aaa7f47.webp",
+    "static/media/Josh.webp": "/QCAlas/static/media/Josh.a73b6ee5d96db29d47f0.webp",
+    "static/media/alas.png": "/QCAlas/static/media/alas.34e5a04b9f5d1524fefd.png",
+    "static/media/Mia.webp": "/QCAlas/static/media/Mia.0481e9163c6f372172c1.webp",
+    "static/media/logo.svg": "/QCAlas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/QCAlas/index.html",
+    "main.e4608531.css.map": "/QCAlas/static/css/main.e4608531.css.map",
+    "main.405e1057.js.map": "/QCAlas/static/js/main.405e1057.js.map",
+    "787.9b550815.chunk.js.map": "/QCAlas/static/js/787.9b550815.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84358f70.css",
-    "static/js/main.2d636393.js"
+    "static/css/main.e4608531.css",
+    "static/js/main.405e1057.js"
   ]
 }
